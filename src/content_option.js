@@ -1,47 +1,48 @@
 const logotext = "JAFET BRITO ";
 const meta = {
     title: "Jafet Brito - DESARROLLADOR WEB",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "Soy Jafet Brito Cientifico de Datos _ Full stack developer, trabajando actualmente en Mexico",
 };
 
 const introdata = {
-    title: "I’m Jafet Brito ",
+    title: "Jafet Brito ",
     animated: {
         first: "I love coding",
         second: "Diseño sitios web increibles", 
         third: "Desarrollo de Software y Aplicaciones",
+
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "¡Hola! Mi nombre es Jafet Brito, soy Desarrollador Web & Diseñador Web. Trabajo actualmente en Mexico.",
     your_img_url: "http://jafetbrito.com/wp-content/uploads/2022/06/Urbano-10-1-768x768.png",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Acerca de mi",
+    aboutme: "Soy Desarrollador web",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+        jobtitle: "Libra-Digital",
+        where: "Cuernavaca, Morelos",
+        date: "2022",
+    },
+    {
+        jobtitle: "Raxione",
+        where: "Cuernavaca, Morelos",
         date: "2020",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
+        jobtitle: "Art-Ware",
+        where: "Ciudad de Mexico",
         date: "2019",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "JavaScript",
+        value: 60,
     },
     {
-        name: "Djano",
+        name: "HTML",
         value: 85,
     },
     {
@@ -60,20 +61,20 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Desarrollo de sitios web increibles",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Desarrollo de aplicaciones para celulares y tablets.",
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Desarrollo de paginas web en Wordpress",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "http://jafetbrito.com/wp-content/uploads/2022/06/tedX-768x364.png",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
@@ -136,7 +137,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "contacto@jafetbrito.com",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     YOUR_SERVICE_ID: "service_id",
