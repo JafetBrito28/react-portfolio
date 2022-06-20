@@ -1,18 +1,18 @@
-const logotext = "JOHN";
+const logotext = "JAFET BRITO ";
 const meta = {
-    title: "John Doe",
+    title: "Jafet Brito - DESARROLLADOR WEB",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Jafet Brito",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "Diseño sitios web increibles", 
+        third: "Desarrollo de Software y Aplicaciones",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "http://jafetbrito.com/wp-content/uploads/2022/06/Urbano-10-1-768x768.png",
 };
 
 const dataabout = {
